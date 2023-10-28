@@ -1,0 +1,14 @@
+C:\Users\David\Documents\GitHub\CybersecurityTest\bin\Debug\net7.0-windows\CybersecurityTest.exe
+C:\Users\David\Documents\GitHub\CybersecurityTest\bin\Debug\net7.0-windows\CybersecurityTest.deps.json
+C:\Users\David\Documents\GitHub\CybersecurityTest\bin\Debug\net7.0-windows\CybersecurityTest.runtimeconfig.json
+C:\Users\David\Documents\GitHub\CybersecurityTest\bin\Debug\net7.0-windows\CybersecurityTest.dll
+C:\Users\David\Documents\GitHub\CybersecurityTest\bin\Debug\net7.0-windows\CybersecurityTest.pdb
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.dll
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\refint\CybersecurityTest.dll
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.pdb
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\CybersecurityTest.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\CybersecurityTest\obj\Debug\net7.0-windows\ref\CybersecurityTest.dll
