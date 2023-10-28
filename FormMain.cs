@@ -74,14 +74,14 @@ public partial class FormMain : Form
         Controls.Add(textBoxText);
 
         buttonEncrypt2.Text = "Encrypt";
-        buttonEncrypt2.Name = "buttonEncrypt";
+        buttonEncrypt2.Name = "buttonEncrypt2";
         buttonEncrypt2.Location = new Point(10, 180);
         buttonEncrypt2.Size = new Size(110, 40);
         buttonEncrypt2.Click += ButtonEncrypt2_Click;
         Controls.Add(buttonEncrypt2);
 
         buttonDecrypt2.Text = "Decrypt";
-        buttonDecrypt2.Name = "buttonDecrypt";
+        buttonDecrypt2.Name = "buttonDecrypt2";
         buttonDecrypt2.Location = new Point(120, 180);
         buttonDecrypt2.Size = new Size(110, 40);
         buttonDecrypt2.Click += ButtonDecrypt2_Click;
